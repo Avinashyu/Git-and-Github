@@ -1,0 +1,4 @@
+Hello Github!
+
+This is my first text file.
+Created during the Git & Github workshop.
